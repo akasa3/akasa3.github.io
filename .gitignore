@@ -445,5 +445,6 @@ Gemfile
 Gemfile.lock
 /_site/
 /_site/*
+new_post.sh
 
 # End of https://www.toptal.com/developers/gitignore/api/ruby,git,video,python,c++,ros,ros2,cmake,macos,windows
