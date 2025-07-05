@@ -32,6 +32,13 @@ paginate: 20
 paginate_path: "/page/:num/"
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
+category_archive:
+  type: jekyll-archives
+  path: /category/
+tag_archive:
+  type: jekyll-archives
+  path: /tags/
+
 jekyll-archives:
   enabled:
     - categories
