@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: "test"
+title: "akasa's blog"
 subtitle: ""
 name: "akasa"
 description: >
@@ -31,7 +31,7 @@ highlightjs_theme: "monokai-sublime"
 # https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
 pagination:
   enabled: true
-  per_page: 5
+  per_page: 20
   permalink: "/page/:num/"
   sort_reverse: true
 
