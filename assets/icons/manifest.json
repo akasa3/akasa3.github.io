@@ -2,7 +2,7 @@
  "name": "App",
  "icons": [
   {
-   "src": "\/android-iconpng",
+   "src": "\/icon.png",
    "sizes": "180x180",
    "type": "image\/png",
    "density": "3.0"
